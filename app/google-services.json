@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109057855592",
+    "project_id": "animalsdata-24350",
+    "storage_bucket": "animalsdata-24350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109057855592:android:7187c96707aa51518b2bdd",
+        "android_client_info": {
+          "package_name": "com.malkinfo.animalinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109057855592-j46ip6f413c4944o9kaahkv7kidd61ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDta4mA92_5al22Z3Gx1_EMV_aFV3veQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109057855592-j46ip6f413c4944o9kaahkv7kidd61ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
